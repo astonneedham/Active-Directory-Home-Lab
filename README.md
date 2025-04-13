@@ -1,1 +1,1 @@
-# A first letter heading Active Directory Home Lab
+# Active Directory Home Lab
