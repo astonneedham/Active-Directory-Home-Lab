@@ -14,3 +14,5 @@ Welcome to the GitHub repository for setting up a basic home lab running Active 
 ## Environments Used
 - Windows 10
 - Server 2019
+
+## Lab Walk-through
