@@ -29,5 +29,4 @@ Welcome to the GitHub repository for setting up a basic home lab running Active 
 6.	Promote the Server to a Domain Controller with the domain mydomain.com
 7.	Verify Domain Controller Status
 
-|![Image](https://github.com/user-attachments/assets/24078984-402b-4b12-8a32-3a84780804e8)|![Image](https://github.com/user-attachments/assets/0aa9568c-87ca-4da8-89f3-3b6a71a6760d)|
-| My Caption |
+|![Image](https://github.com/user-attachments/assets/6c667a60-5a83-405b-bbfe-6d172b377dc2)||:--:||*Domain Creation*|![Image](https://github.com/user-attachments/assets/0aa9568c-87ca-4da8-89f3-3b6a71a6760d)||:--:||*Install Active Directory*|
